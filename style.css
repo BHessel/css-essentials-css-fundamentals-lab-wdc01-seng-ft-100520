@@ -19,8 +19,10 @@ nav, figcaption {
   text-align: center;
 }
 
-a{
-  padding: 10px;
+nav a{
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0;
 }
 
 figure {
