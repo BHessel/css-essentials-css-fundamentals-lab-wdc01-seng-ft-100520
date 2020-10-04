@@ -35,6 +35,9 @@ figure {
   margin: 0 auto;
 }
 
-#details{
-  display: block
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
 }
