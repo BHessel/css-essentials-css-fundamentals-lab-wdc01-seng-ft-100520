@@ -15,6 +15,10 @@ img {
   margin: 0 auto;
 }
 
+nav, figcaption {
+  text-align: center;
+}
+
 a{
   padding: 10px;
 }
